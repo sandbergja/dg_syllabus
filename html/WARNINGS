@@ -1,0 +1,18 @@
+No implementation found for style `memoir'
+No implementation found for style `hyperref'
+
+redefining command \bibname 
+
+dg-syllabus.tex is newer than dg-syllabus.aux: Please rerun latex.
+
+? brace missing for \
+
+Substitution of arg to newlabelxx delayed.
+
+redefining command \ 
+
+? brace missing for \oldnewlabel
+
+? brace missing for \oldcontentsline
+
+dg-syllabus.tex is newer than dg-syllabus.bbl: Please rerun latex and bibtex.
