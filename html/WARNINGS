@@ -12,5 +12,3 @@ redefining command \
 ? brace missing for \oldcontentsline
 
 ? brace missing for \oldnewlabel
-
-dg-syllabus.tex is newer than dg-syllabus.bbl: Please rerun latex and bibtex.
